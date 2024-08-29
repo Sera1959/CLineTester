@@ -4,4 +4,4 @@
 
 if __name__ == "__main__":
     import CCcamTester
-    CCcamTester.TestCline("C: jjjjj.jjjj.com 22000 uuuu pppp")
+    CCcamTester.TestCline("C: top1.starcline.net 18801 DFGF0816 89816877")
